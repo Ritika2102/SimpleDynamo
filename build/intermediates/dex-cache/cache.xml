@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Fnu\Desktop\SimpleDynamo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="099e40864a80079816392c94afcab6188327c4df">
+        <dex dex="C:\Users\Fnu\Desktop\SimpleDynamo\app\build\intermediates\pre-dexed\debug\instant-run_198969ff4227e821ab37def4f402dfd8bf9b88bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Fnu\Desktop\SimpleDynamo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="278c16d20d05db74990ee1fe37e49b475df7000e">
+        <dex dex="C:\Users\Fnu\Desktop\SimpleDynamo\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_ed857ffe807a8be14222b48287a7b20c3e2f9d4a.jar" />
+    </item>
+
+</items>
